@@ -1,4 +1,4 @@
-# NETWORKWALKS-ALEXANDRU-DRUMEA-B084J-WK1-PM1-CYBERSECURITY-LAB-SETUP KALI LINUX
+# NETWORKWALKS-ALEXANDRU-DRUMEA-B084J-WK1-PM1-CYBERSECURITY-LAB-SETUP-KALI-LINUX
 NetworkWalks Cybersecurity Internship 2026 – Week 1, Project 1. Hands-on experience with virtualisation, networking and cybersecurity fundamentals.
 
 **Building an isolated virtual lab for penetration testing and ethical hacking practice**
